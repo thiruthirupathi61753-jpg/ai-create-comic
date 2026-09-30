@@ -1,0 +1,8 @@
+{
+  "name": "comiccraft-fresh",
+  "version": "1.0.0",
+  "description": "ComicCraft - AI Comic Story Creator",
+  "main": "server.js",
+  "scripts": {"start": "node server.js", "dev": "node server.js"},
+  "dependencies": {"@google/genai": "^2.24.0", "dotenv": "^16.4.7", "express": "^4.21.2"}
+}

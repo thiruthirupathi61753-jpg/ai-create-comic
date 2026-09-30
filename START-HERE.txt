@@ -1,0 +1,14 @@
+COMICCRAFT FRESH — START HERE
+
+1) Extract this ZIP.
+2) Open the extracted ComicCraft-Fresh folder in VS Code.
+3) Terminal > New Terminal.
+4) Type: npm.cmd install
+5) After it finishes, type: npm.cmd start
+6) Open: http://localhost:3000
+
+IMPORTANT:
+- It works in demo mode without Gemini API key.
+- For Gemini, copy .env.example to a new file named .env and add your key.
+- Never share your API key.
+- PDF button opens Print; choose "Save as PDF".
